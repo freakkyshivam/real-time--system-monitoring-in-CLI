@@ -1,5 +1,5 @@
 {
-  "name": "systemmonitoring",
+  "name": "@freakkyshivam/systemmonitoring",
   "version": "1.0.0",
   "description": "A fancy CLI system monitor built with Node.js",
   "main": "app.js",
