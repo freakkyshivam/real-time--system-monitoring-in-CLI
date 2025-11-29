@@ -4,8 +4,8 @@
   "description": "A fancy CLI system monitor built with Node.js",
   "main": "app.js",
   "bin": {
-  "sh-monitor": "app.js"
-},
+    "sh-monitor": "app.js"
+  },
   "scripts": {
     "start": "nodemon app.js"
   },
@@ -20,9 +20,11 @@
     "console-table-printer": "^2.15.0",
     "figlet": "^1.9.4",
     "gradient-string": "^3.0.0",
-    "nodemon": "^3.1.11",
     "ora": "^9.0.0",
     "readline": "^1.3.0",
     "systeminformation": "^5.27.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
