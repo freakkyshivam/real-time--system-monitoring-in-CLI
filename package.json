@@ -1,6 +1,6 @@
 {
   "name": "@freakkyshivam/systemmonitoring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fancy CLI system monitor built with Node.js",
   "main": "app.js",
   "bin": {
